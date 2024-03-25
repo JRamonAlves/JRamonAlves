@@ -2,8 +2,8 @@
 CS major at UFCG, with a passion for programming data estructures.
 ##
 <div>
-  <img height="180em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=leofarias-cpu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leofarias-cpu&theme=monokai&">
+  <img height="180em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=JRamonAlves&show_icons=true&theme=transparent &include_all_commits=true&count_private=true"/>
+  <img height="160em" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JRamonAlves&theme=transparent &">
 </div>
 
 ---
