@@ -1,5 +1,5 @@
 ### Hi there, I'm Ramon 👋
-CS major at UFCG, with a passion for programming and data estructures.
+CS major at UFCG, with a passion for programming.
 ###
 <div align="center">
   
