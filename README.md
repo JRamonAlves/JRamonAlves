@@ -2,7 +2,7 @@
 CS major student at UFCG, with a passion for programming.
 ##
 <div>
-  <div>
+  <div padding=20px>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
