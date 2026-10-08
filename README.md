@@ -18,6 +18,7 @@ Computer Science student at UFCG, focused on building useful software and improv
 
 ## Connect
 
+- Mimo Secreto: [mimosecreto.app](https://www.mimosecreto.app)
 - GitHub: [@JRamonAlves](https://github.com/JRamonAlves)
 
 ---
